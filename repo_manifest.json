@@ -1,0 +1,21 @@
+{
+  "name": "Residual Transformation Tool \u2014 CANONICAL",
+  "version": "1.0.2a",
+  "repository_ready": true,
+  "license_status": "UNLICENSED",
+  "canonical_workbook": "workbooks/canonical/Residual_Transformation_Tool_CANONICAL_v1_0_2a.xlsx",
+  "preflight_master": "workbooks/canonical/residual_transformation_tool_current_master_v1_0_2a_preflight.xlsx",
+  "known_live_blocker": "SET-003",
+  "included": [
+    "workbooks/canonical/Residual_Transformation_Tool_CANONICAL_v1_0_2a.xlsx",
+    "workbooks/canonical/residual_transformation_tool_current_master_v1_0_2a_preflight.xlsx",
+    "bootstrap/residual_research_bootstrap_v1_0.zip",
+    "release_notes/Residual_Transformation_Tool_CANONICAL_v1_0_2a_RELEASE_NOTES.md",
+    "workbooks/fallback/residual_transformation_tool_current_master_v1_0_2.xlsx",
+    "workbooks/fallback/residual_transformation_tool_v1_0_debugged.xlsx",
+    "workbooks/fallback/residual_transformation_tool_v1_0_1_subject_ready.xlsx",
+    "workbooks/fallback/residual_transformation_tool_v1_0_2_subject_comparison_fixed.xlsx"
+  ],
+  "missing": [],
+  "created_utc": "2026-04-06T20:42:20+00:00"
+}
